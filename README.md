@@ -1,5 +1,4 @@
 Hybrid Intelligent Study Navigator
-
 This project is an AI-driven recommendation engine that bridges the gap between classical symbolic logic and modern machine learning. It acts as a Rational Agent to help students navigate complex academic subjects without falling into the "Prerequisite Trap."
 
 Key Components:
